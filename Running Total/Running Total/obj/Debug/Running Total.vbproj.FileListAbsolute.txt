@@ -1,0 +1,10 @@
+C:\Users\nn137422\Documents\Visual Basic\Running Total\Running Total\bin\Debug\Running Total.exe.config
+C:\Users\nn137422\Documents\Visual Basic\Running Total\Running Total\bin\Debug\Running Total.exe
+C:\Users\nn137422\Documents\Visual Basic\Running Total\Running Total\bin\Debug\Running Total.pdb
+C:\Users\nn137422\Documents\Visual Basic\Running Total\Running Total\bin\Debug\Running Total.xml
+C:\Users\nn137422\Documents\Visual Basic\Running Total\Running Total\obj\Debug\Running_Total.Form1.resources
+C:\Users\nn137422\Documents\Visual Basic\Running Total\Running Total\obj\Debug\Running_Total.Resources.resources
+C:\Users\nn137422\Documents\Visual Basic\Running Total\Running Total\obj\Debug\Running Total.vbproj.GenerateResource.Cache
+C:\Users\nn137422\Documents\Visual Basic\Running Total\Running Total\obj\Debug\Running Total.exe
+C:\Users\nn137422\Documents\Visual Basic\Running Total\Running Total\obj\Debug\Running Total.xml
+C:\Users\nn137422\Documents\Visual Basic\Running Total\Running Total\obj\Debug\Running Total.pdb
